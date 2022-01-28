@@ -7,6 +7,8 @@ import Vercliente from './pages/VerCliente'
 
 function App() {
 
+  console.log(import.meta.env);
+
   return (
     <div className="App">
       <BrowserRouter>

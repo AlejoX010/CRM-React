@@ -1,3 +1,12 @@
 {
-  "clientes": []
+  "clientes": [
+    {
+      "nombre": "Perro",
+      "empresa": "Hernandez",
+      "email": "a-alex62@hotmail.com",
+      "telefono": 123456789,
+      "nota": "dsdd",
+      "id": 1
+    }
+  ]
 }
